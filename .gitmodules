@@ -1,0 +1,3 @@
+[submodule "nodejsWithMySql"]
+	path = nodejsWithMySql
+	url = https://github.com/ritikgoyal133/nodejsWithMySql.git
